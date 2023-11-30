@@ -19,37 +19,40 @@ ___
 
 ## Example Response
 
-price=1750000
-area=3850
+price=6230000
+area=5500
 bedrooms=3
 bathrooms=1
-stories=2
+stories=3
 mainroad=yes
 guestroom=no
 basement=no
 hotwaterheating=no
 airconditioning=no
-parking=0
-prefarea=no
+parking=1
+prefarea=yes
 furnishingstatus=unfurnished
-🏠 Just listed! Don't miss out on this incredible property! 🏠
+// all parameters used to generate this sample
+🏡 Just Listed! This gorgeous 3-bedroom home with 1 bathroom is now available for only $6,230,000! Don't miss out on this amazing deal! 🙌
 
-📍 Located in a desirable neighborhood, this stunning 3-bedroom home is a great find for those seeking their dream home. 
+📐 With a spacious area of 5,500 sqft, this home offers plenty of room for your family and guests to relax and enjoy. 🌳🌞
 
-💰 Priced at $1,750,000, this property offers exceptional value for its spacious 3850 sqft area. With plenty of room to grow, you'll have endless possibilities to make this house your own.
+🛏️ Featuring 3 cozy bedrooms, this home provides ample space for everyone to have their own privacy while enjoying quality time together. 💤✨
 
-🛏️ Boasting 3 bedrooms, this home provides ample space for comfortable living. It also features 1 bathroom, ensuring convenience for the entire household.
+🚻 The bathroom is well-maintained and ensures your daily routines are convenient and comfortable. 🚿💦
 
-🌲 Situated on a peaceful street, this 2-story home welcomes you with its charming character and inviting ambiance. The main road accessibility ensures easy commuting for your daily needs.
+🏢 This 3-story home offers a versatile layout, perfect for families looking for extra space and separation. 📚🎮 
 
-🚗 Need parking space? Although this property comes with zero parking spots, public parking options are available nearby to accommodate your vehicles.
+🛣️Situated on the main road, you'll have easy access to nearby amenities, transportation, and entertainment options. 🛒🚌
 
-💡 While this home does not have hot water heating or air conditioning, there's potential to customize it to your liking. Unleash your creativity and transform this house into your personal oasis.
+🏠 The property also includes a parking space, ensuring convenience and peace of mind for you and your family. 🚗🅿️
 
-🏡 With no guest room or basement, you can tailor the interior to suit your lifestyle and preferences. The unfurnished furnishing status offers a blank canvas for you to design your dream home.
+🏖️ Located in a preferred area, you'll enjoy a peaceful and serene neighborhood, perfect for long walks and leisurely evenings. 🌳🌸
 
-🌳 While not situated in a preferred area, this home is an incredible opportunity for you to create your own haven. Take advantage of its potential and make it your own personal retreat.
+❄️💦 Other features include hot water heating and air conditioning, providing comfort in any weather. 
 
-📞 Don't wait! Contact us now to schedule a viewing and explore the possibilities of making this house your new home. Let us guide you through the process of turning this property into your dream residence. 
+💼💼 Whether you're a family looking for a spacious home or an investor seeking an excellent property, this listing is a must-see!
 
-#NewListing #DreamHome #RealEstate #ForSale #PropertyListing #HomeSweetHome #InvestmentOpportunity #InstaHome #HomeInspo #HomeDecor
+📲 Contact us today to book a viewing! Don't wait, as this incredible opportunity won't last long! 📞💼
+
+#JustListed #DreamHome #FamilyFriendly #RealEstate #InvestmentOpportunity #HomeSweetHome
