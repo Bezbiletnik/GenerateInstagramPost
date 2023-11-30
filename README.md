@@ -3,24 +3,19 @@
 ## Overview
 *This Python script generates Instagram posts for real estate listings using OpenAI's GPT-3.5-turbo model. 
 The script reads random entries from a housing dataset, formats the data, and creates compelling Instagram posts for each listing.*
-
 ___
 
 ## Setup
 + ```python -m pip install -r requirements.txt```
 ___
-## Features
 
-+ Tracks all your spendings.
-+ Helps you to identify areas, so you can cut back expenses.
-+ Instantly retrieve your transactions.
-+ Easy to manage.
-___
 ## Libraries
 
 The program was written in **Python**.
 + [OpenAI](https://platform.openai.com/docs/overview)
 + [Pandas](https://pandas.pydata.org/)
+
+___
 
 ## Example Response
 
