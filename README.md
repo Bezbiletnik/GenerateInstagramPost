@@ -19,20 +19,20 @@ ___
 
 ## Example Response
 
-price=6230000
-area=5500
-bedrooms=3
-bathrooms=1
-stories=3
-mainroad=yes
-guestroom=no
-basement=no
-hotwaterheating=no
-airconditioning=no
-parking=1
-prefarea=yes
-furnishingstatus=unfurnished
-// all parameters used to generate this sample
+price=6230000<br>
+area=5500<br>
+bedrooms=3<br>
+bathrooms=1<br>
+stories=3<br>
+mainroad=yes<br>
+guestroom=no<br>
+basement=no<br>
+hotwaterheating=no<br>
+airconditioning=no<br>
+parking=1<br>
+prefarea=yes<br>
+furnishingstatus=unfurnished<br>
+// all parameters used to generate this sample<br>
 🏡 Just Listed! This gorgeous 3-bedroom home with 1 bathroom is now available for only $6,230,000! Don't miss out on this amazing deal! 🙌
 
 📐 With a spacious area of 5,500 sqft, this home offers plenty of room for your family and guests to relax and enjoy. 🌳🌞
