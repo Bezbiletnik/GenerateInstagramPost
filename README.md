@@ -9,6 +9,10 @@ ___
 + ```python -m pip install -r requirements.txt```
 ___
 
+## Features
+Parallelism was used to increase the speed of the ChatGPT answer. 
+By this approach, the time taken for processing 20 entries decreased by 10 times from ~10 minutes to ~50sec instead.
+
 ## Libraries
 
 The program was written in **Python**.
